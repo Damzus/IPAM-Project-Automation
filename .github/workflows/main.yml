@@ -7,4 +7,4 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: saurabnand/podcast-generator@main
+        uses: Damzus/podcast-generator@main
